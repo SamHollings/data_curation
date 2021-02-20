@@ -1,0 +1,5 @@
+name: data_curation
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
